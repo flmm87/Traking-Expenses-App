@@ -7,4 +7,4 @@ Whether it's capturing expenses on the fly or categorizing spending habits, this
 
 ## Screen Shoots
 
-<img src="./2/to/img.jpg" alt="Getting started" />
+![Screenshot 2024-06-04 (21 32 23) 2](https://github.com/flmm87/tracking-expenses-app/assets/116169576/ce8c446d-8929-4455-87b6-8427be628334)
