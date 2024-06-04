@@ -5,6 +5,6 @@ The app boasts a smooth and intuitive interface, enhanced by Stack Navigation an
 Utilizing Axios for network requests, the app effortlessly fetches and posts data to a Firebase backend, ensuring real-time synchronization and data security. 
 Whether it's capturing expenses on the fly or categorizing spending habits, this app simplifies the process of expense tracking without managing them.
 
-## Screen Shots
+## Screen Shoots
 
 <img src="./2/to/img.jpg" alt="Getting started" />
