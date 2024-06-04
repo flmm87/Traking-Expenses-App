@@ -8,4 +8,4 @@ Whether it's capturing expenses on the fly or categorizing spending habits, this
 ## Screen Shoots
 
 
-<img src="https://github.com/flmm87/tracking-expenses-app/assets/116169576/4d3a4d4d-220a-4e5f-bb74-da3bcba74580" width:300/>
+<img src="https://github.com/flmm87/tracking-expenses-app/assets/116169576/4d3a4d4d-220a-4e5f-bb74-da3bcba74580" width="200"/>
