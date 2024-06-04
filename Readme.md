@@ -7,7 +7,7 @@ Whether it's capturing expenses on the fly or categorizing spending habits, this
 
 ## Screenshot
 
-![IMG_5158](https://github.com/flmm87/tracking-expenses-app/assets/116169576/8d6f792a-d877-4ed0-80af-5a675156e842){: height="75px" width="200px" style="float:left; padding-right:10px" }
+![IMG_5158](https://github.com/flmm87/tracking-expenses-app/assets/116169576/8d6f792a-d877-4ed0-80af-5a675156e842){:  width="200px" style="float:left; padding-right:10px" }
 
 <img src="https://github.com/flmm87/tracking-expenses-app/assets/116169576/4d3a4d4d-220a-4e5f-bb74-da3bcba74580" width="200"/>
 <img style="float:left; padding-right:10px" src="https://github.com/flmm87/tracking-expenses-app/assets/116169576/6b23db25-8412-4b3e-8251-3b42e11b16df" width="200"/>
